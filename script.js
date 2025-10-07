@@ -47,3 +47,5 @@ function update() {
 		prev.disabled = false;
 	}
 }
+
+update();
